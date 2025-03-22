@@ -1,0 +1,134 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_11"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_biteme"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_buddieschillinbutoutside"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_buddieschillin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_campingogg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_click"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_crisscrossapplesauce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_disassemblyrequiredteaseroriginalsoundtrack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_eternaldestroyer"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_eternaldream"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_fallingwithyou"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_forever"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_getprommedthree"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_gimmeahand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_murderbringstrailertheme"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_murderdrones"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_solveruzi"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_theknifedance"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_uziandnthedronekillers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_uzithedronekiller"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_whispersinthesky"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "murder_drones_ost_disc:item/music_disc_doll"
+        }
+    ]
+}

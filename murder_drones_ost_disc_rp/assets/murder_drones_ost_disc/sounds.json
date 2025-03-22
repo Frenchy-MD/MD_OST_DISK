@@ -1,0 +1,170 @@
+{
+    "music_disc.biteme": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/biteme",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.buddieschillinbutoutside": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/buddieschillinbutoutside",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.buddieschillin": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/buddieschillin",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.campingogg": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/campingogg",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.click": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/click",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.crisscrossapplesauce": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/crisscrossapplesauce",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.disassemblyrequiredteaseroriginalsoundtrack": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/disassemblyrequiredteaseroriginalsoundtrack",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.eternaldestroyer": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/eternaldestroyer",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.eternaldream": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/eternaldream",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.fallingwithyou": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/fallingwithyou",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.forever": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/forever",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.getprommedthree": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/getprommedthree",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.gimmeahand": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/gimmeahand",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.murderbringstrailertheme": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/murderbringstrailertheme",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.murderdrones": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/murderdrones",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.solveruzi": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/solveruzi",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.theknifedance": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/theknifedance",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.uziandnthedronekillers": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/uziandnthedronekillers",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.uzithedronekiller": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/uzithedronekiller",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.whispersinthesky": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/whispersinthesky",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.doll": {
+        "sounds": [
+            {
+                "name": "murder_drones_ost_disc:records/doll",
+                "stream": true
+            }
+        ]
+    }
+}
