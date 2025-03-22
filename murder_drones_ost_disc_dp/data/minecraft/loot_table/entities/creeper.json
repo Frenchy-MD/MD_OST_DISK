@@ -1,0 +1,391 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "max": 2.0,
+                                "min": 0.0
+                            },
+                            "function": "minecraft:set_count"
+                        },
+                        {
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "max": 1.0,
+                                "min": 0.0
+                            },
+                            "enchantment": "minecraft:looting",
+                            "function": "minecraft:enchanted_count_increase"
+                        }
+                    ],
+                    "name": "minecraft:gunpowder"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:tag",
+                    "weight": 1,
+                    "name": "minecraft:creeper_drop_music_discs",
+                    "expand": true
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:biteme",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:biteme"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:buddieschillinbutoutside",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:buddieschillinbutoutside"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:buddieschillin",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:buddieschillin"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:campingogg",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:campingogg"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:click",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:click"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:crisscrossapplesauce",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:crisscrossapplesauce"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:disassemblyrequiredteaseroriginalsoundtrack",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:disassemblyrequiredteaseroriginalsoundtrack"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:eternaldestroyer",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:eternaldestroyer"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:eternaldream",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:eternaldream"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:fallingwithyou",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:fallingwithyou"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:forever",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:forever"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:getprommedthree",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:getprommedthree"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:gimmeahand",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:gimmeahand"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:murderbringstrailertheme",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:murderbringstrailertheme"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:murderdrones",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:murderdrones"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:solveruzi",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:solveruzi"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:theknifedance",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:theknifedance"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:uziandnthedronekillers",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:uziandnthedronekillers"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:uzithedronekiller",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:uzithedronekiller"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:whispersinthesky",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:whispersinthesky"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_model": "murder_drones_ost_disc:doll",
+                                "minecraft:jukebox_playable": {
+                                    "song": "murder_drones_ost_disc:doll"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:entity_properties",
+                    "predicate": {
+                        "type": "#minecraft:skeletons"
+                    },
+                    "entity": "attacker"
+                }
+            ]
+        }
+    ],
+    "random_sequence": "minecraft:entities/creeper"
+}

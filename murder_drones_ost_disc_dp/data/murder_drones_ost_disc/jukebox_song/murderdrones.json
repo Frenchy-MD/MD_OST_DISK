@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Murder Drones",
+    "length_in_seconds": 110.0161,
+    "sound_event": {
+        "sound_id": "murder_drones_ost_disc:music_disc.murderdrones",
+        "range": 64.0
+    }
+}

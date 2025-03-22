@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Get Prommed _3",
+    "length_in_seconds": 235.0324,
+    "sound_event": {
+        "sound_id": "murder_drones_ost_disc:music_disc.getprommedthree",
+        "range": 64.0
+    }
+}

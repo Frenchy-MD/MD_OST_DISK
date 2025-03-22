@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Gimme a Hand",
+    "length_in_seconds": 88.0501,
+    "sound_event": {
+        "sound_id": "murder_drones_ost_disc:music_disc.gimmeahand",
+        "range": 64.0
+    }
+}
